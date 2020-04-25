@@ -1,0 +1,11 @@
+.header {margin: auto;
+  width: 700px;
+  height: 500px;
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+}
+p {
+  color: #ffffff;
+  background-color: #ff0000;
+}
